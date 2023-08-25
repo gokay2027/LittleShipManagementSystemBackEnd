@@ -161,5 +161,14 @@ namespace LittleShipManagermentSystemApi.Controllers
             var docks = await _mediator.Send(request);
             return Ok(docks);
         }
+
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateShip(UpdateShipRequest inputModel)
+        {
+            var ship = await _mediator.Send(inputModel);
+            return Ok(ship);
+        }
+
     }
 }

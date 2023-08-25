@@ -2,6 +2,7 @@
 {
     public class UpdateShipRequestModel
     {
+        public int Id { get; set; }
         public string name { get; set; }
         public string recordNumber { get; set; }
         public string shipNationality { get; set; }

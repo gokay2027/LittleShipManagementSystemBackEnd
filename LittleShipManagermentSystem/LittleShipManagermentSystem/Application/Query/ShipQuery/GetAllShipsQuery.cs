@@ -32,6 +32,8 @@ namespace LittleShipManagermentSystemApi.Application.Query.ShipQuery
                     Nationality = ship.ShipNationality,
                     RecordNumber = ship.RecordNumber,
                     ShipAge = ship.ShipAge,
+                    ShipCompanyId = ship.ShipCompanyId,
+                    ShipDockId = ship.CurrentDockId
                 };
 
                 responseList.Add(shipObject);
