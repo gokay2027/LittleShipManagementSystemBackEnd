@@ -18,17 +18,18 @@ namespace LittleShipManagermentSystemApi.Application.Query.CompanyQuery
 
         public async Task<GetAllCompaniesResponse> Handle(GetAllCompaniesRequest request, CancellationToken cancellationToken)
         {
-            var ShipsList = await _companyRepository.GetAll();
+            var CompanyList = await _companyRepository.GetAll();
 
             List<GetAllCompaniesResponseModel> responseList = new List<GetAllCompaniesResponseModel>();
 
-            foreach (var ships in ShipsList)
+            foreach (var company in CompanyList)
             {
                 var responseObject = new GetAllCompaniesResponseModel
                 {
-                    Location = ships.Location,
-                    Name = ships.Name,
-                    Nation = ships.Nation,
+                    Id = company.Id,
+                    Location = company.Location,
+                    Name = company.Name,
+                    Nation = company.Nation,
                 };
 
                 responseList.Add(responseObject);

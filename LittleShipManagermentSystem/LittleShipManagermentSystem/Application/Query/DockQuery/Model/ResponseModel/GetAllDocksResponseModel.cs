@@ -4,6 +4,8 @@ namespace LittleShipManagermentSystemApi.Application.Query.DockQuery.Model.Respo
 {
     public class GetAllDocksResponseModel
     {
+        public int Id { get; set; }
+
         public string Name { get; set; }
 
         public Location Location { get; set; }

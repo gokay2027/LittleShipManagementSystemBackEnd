@@ -9,6 +9,7 @@ using LittleShipManagermentSystemApi.Application.Command.ReceiptCommand.Request;
 using LittleShipManagermentSystemApi.Application.Command.ShipCommand.Request;
 using LittleShipManagermentSystemApi.Application.Command.WorkerCommand.Model;
 using LittleShipManagermentSystemApi.Application.Query.CompanyQuery.Request;
+using LittleShipManagermentSystemApi.Application.Query.DockQuery.Request;
 using LittleShipManagermentSystemApi.Application.Query.ShipQuery.Request;
 using LittleShipManagermentSystemApi.Application.Query.WorkerQuery.Request;
 using MediatR;
@@ -152,6 +153,13 @@ namespace LittleShipManagermentSystemApi.Controllers
         {
             var companies = await _mediator.Send(request);
             return Ok(companies);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllDocks([FromQuery] GetAllDocksRequest request)
+        {
+            var docks = await _mediator.Send(request);
+            return Ok(docks);
         }
     }
 }
