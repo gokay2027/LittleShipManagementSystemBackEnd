@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAHHrTkkW8NTGidKzDLVsgt/uLGwa6UMEZvxAVLFDpX5hdR9HM+e+y0x3Byt6+hpW9/KmKIaVbToPQWHyyHAUQ==",
+  "dgSpecHash": "Z5m6vo7sbrjfSPJ3kfVDrkLWnNqIrFt15ZexX3sGAvCyQIiUrevS9fvP0qa5Gy9bIkvBt5ly3Y4a7XmDlKf3lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj",
+  "projectFilePath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokay.dinc\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\gokay.dinc\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",

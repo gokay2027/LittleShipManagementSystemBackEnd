@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNhDnveOF62ZAFJ7AuIEbG2dxCIVffesoAdzWpvAZXMXQxPzEi/rbGjA7vOqfb2tsEBPtETAXyahRAMnxjHnRQ==",
+  "dgSpecHash": "dForUC8TPn3nKO8/nh2bmDFN1Jbqo5NZezLf53OE6xuPhOuAmePF7hWw59+hcH/I84ei+U0fI/x2NQwpDc9WFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\LittleShipManagermentSystemApi.csproj",
+  "projectFilePath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\LittleShipManagermentSystemApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokay.dinc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gokay.dinc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

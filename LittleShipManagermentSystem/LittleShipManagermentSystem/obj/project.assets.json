@@ -3920,11 +3920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\LittleShipManagermentSystemApi.csproj",
+      "projectUniqueName": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\LittleShipManagermentSystemApi.csproj",
       "projectName": "LittleShipManagermentSystemApi",
-      "projectPath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\LittleShipManagermentSystemApi.csproj",
+      "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\LittleShipManagermentSystemApi.csproj",
       "packagesPath": "C:\\Users\\gokay.dinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\obj\\",
+      "outputPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagermentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokay.dinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3941,14 +3941,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj": {
-              "projectPath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj"
+            "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj": {
+              "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj"
             },
-            "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj": {
-              "projectPath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj"
+            "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj": {
+              "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj"
             },
-            "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagementSystemInfrastructure\\LittleShipManagementSystemInfrastructure.csproj": {
-              "projectPath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagementSystemInfrastructure\\LittleShipManagementSystemInfrastructure.csproj"
+            "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemInfrastructure\\LittleShipManagementSystemInfrastructure.csproj": {
+              "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemInfrastructure\\LittleShipManagementSystemInfrastructure.csproj"
             }
           }
         }

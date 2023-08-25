@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YllajSxKsm4a8ZIBqeoZyp8myPbjG75V5c6uP0ABQ7PuMaHiz/U4yC2cHaqluUHGNt68TxzS1bm4LCmRcN2DTw==",
+  "dgSpecHash": "GRssfSBeH8lMJIAX2ZFQqAOvUZc5dd60f7+ViHp7vKdGCQPX+3+pPAQYsH/JSBZevRpdn72rE5eDpb5OvtGxrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokay.dinc\\Desktop\\Projects Visual Studio\\LittleShipManagermentSystem\\LittleShipManagementSystemInfrastructure\\LittleShipManagementSystemInfrastructure.csproj",
+  "projectFilePath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemInfrastructure\\LittleShipManagementSystemInfrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokay.dinc\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\gokay.dinc\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
