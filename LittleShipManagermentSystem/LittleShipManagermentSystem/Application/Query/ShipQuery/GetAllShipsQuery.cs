@@ -26,6 +26,7 @@ namespace LittleShipManagermentSystemApi.Application.Query.ShipQuery
             {
                 var shipObject = new GetShipsByFilterResponseModel
                 {
+                    Id = ship.Id,
                     IsOnTheWay = ship.IsOnTheWay,
                     Name = ship.Name,
                     Nationality = ship.ShipNationality,
