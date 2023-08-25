@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f25cad2-b033-4f39-a7c9-eb3214615ff9": {
+      "ProjectGuid": "1f25cad2-b033-4f39-a7c9-eb3214615ff9",
+      "DisplayName": "LittleShipManagermentSystemApi",
+      "ColorIndex": 0
+    },
+    "4ef1cd42-dd1b-4868-9c86-c88915705318": {
+      "ProjectGuid": "4ef1cd42-dd1b-4868-9c86-c88915705318",
+      "DisplayName": "LittleShipManagementSystemDomain",
+      "ColorIndex": 1
+    },
+    "299bd234-b8c7-4346-b3d8-52782b99c9fb": {
+      "ProjectGuid": "299bd234-b8c7-4346-b3d8-52782b99c9fb",
+      "DisplayName": "LittleShipManagementSystemInfrastructure",
+      "ColorIndex": 2
+    },
+    "5bfec0bf-311f-4fef-99c8-5410cd9725cb": {
+      "ProjectGuid": "5bfec0bf-311f-4fef-99c8-5410cd9725cb",
+      "DisplayName": "LittleShipManagementSystemData",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cc56b088-ee8c-496b-a6a4-39faf431c3a1": {
+      "ProjectGuid": "cc56b088-ee8c-496b-a6a4-39faf431c3a1",
+      "DisplayName": "To do notes",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

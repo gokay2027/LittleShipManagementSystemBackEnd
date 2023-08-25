@@ -1,0 +1,14 @@
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\bin\Debug\net6.0\ListtleShipManagementSystemDomain.deps.json
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\bin\Debug\net6.0\ListtleShipManagementSystemDomain.runtimeconfig.json
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\bin\Debug\net6.0\ListtleShipManagementSystemDomain.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\bin\Debug\net6.0\ref\ListtleShipManagementSystemDomain.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\bin\Debug\net6.0\ListtleShipManagementSystemDomain.pdb
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.AssemblyInfoInputs.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.AssemblyInfo.cs
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.csproj.CoreCompileInputs.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ref\ListtleShipManagementSystemDomain.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.pdb
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.genruntimeconfig.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\ListtleShipManagementSystemDomain\obj\Debug\net6.0\ListtleShipManagementSystemDomain.csproj.AssemblyReference.cache

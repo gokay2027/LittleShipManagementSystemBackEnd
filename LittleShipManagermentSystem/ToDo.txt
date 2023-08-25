@@ -1,0 +1,21 @@
+﻿
+
+
+
+JOURNEYY ALGORITMASI
+Journey için Dock-Company-Ship-Captain-Worker List ve Load lazım içerisinde ise
+
+Captain is on the way false olmalı (Kontrol)
+Ship is on the way false olmalı (Kontrol)
+Dorker Listteki tüm workerlerin is on the wayi false olmalı (Döngülü kontrol)
+
+Journey eklendiğinde Shipin Docku Null olmalı (receipt cıkarilinca varilan dock olalı shipin docku)
+
+Journey içine Load koyulmalı
+
+En sonda da Contract
+-------------------------------------------------------------------------------------------
+
+
+contracttan sonra on the wayler true olmalı onları düzelt
+receipt cikinca shipin current docku endock olmalı

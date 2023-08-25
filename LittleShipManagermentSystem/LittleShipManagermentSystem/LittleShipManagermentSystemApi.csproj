@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Application\Query\WorkerQuery\hvglzzn2.ofl~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="LinqKit" Version="1.2.4" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="MediatR.Courier.DependencyInjection" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Application\Command\CaptainCommand\Model\ResponseModel\" />
+    <Folder Include="Application\Command\CaptainCommand\Response\" />
+    <Folder Include="Application\Command\CompanyCommand\Model\ResponseModel\" />
+    <Folder Include="Application\Command\CompanyCommand\Response\" />
+    <Folder Include="Application\Command\WorkerCommand\Model\ResponseModel\" />
+    <Folder Include="Application\Command\WorkerCommand\Response\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ListtleShipManagementSystemDomain\LittleShipManagementSystemDomain.csproj" />
+    <ProjectReference Include="..\LittleShipManagementSystemData\LittleShipManagementSystemData.csproj" />
+    <ProjectReference Include="..\LittleShipManagementSystemInfrastructure\LittleShipManagementSystemInfrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

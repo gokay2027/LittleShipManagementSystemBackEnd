@@ -1,0 +1,34 @@
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.deps.json
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.runtimeconfig.json
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\ref\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.pdb
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.AssemblyInfoInputs.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.AssemblyInfo.cs
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.csproj.CoreCompileInputs.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\ref\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.pdb
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.genruntimeconfig.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.csproj.AssemblyReference.cache
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.csproj.CopyComplete
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemDomain.dll
+C:\Users\gokay.dinc\source\repos\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemDomain.pdb
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.deps.json
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.runtimeconfig.json
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\ref\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemData.pdb
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemDomain.dll
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\bin\Debug\net6.0\LittleShipManagementSystemDomain.pdb
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.csproj.AssemblyReference.cache
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.AssemblyInfoInputs.cache
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.AssemblyInfo.cs
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.csproj.CoreCompileInputs.cache
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.csproj.CopyComplete
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\ref\LittleShipManagementSystemData.dll
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.pdb
+C:\Users\gokay.dinc\Desktop\Projects Visual Studio\LittleShipManagermentSystem\LittleShipManagementSystemData\obj\Debug\net6.0\LittleShipManagementSystemData.genruntimeconfig.cache
