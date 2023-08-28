@@ -170,5 +170,12 @@ namespace LittleShipManagermentSystemApi.Controllers
             return Ok(ship);
         }
 
+        [HttpDelete]
+        public async Task<IActionResult> DeleteShip(DeleteShipRequest inputModel)
+        {
+            var responseDelete = await _mediator.Send(inputModel);
+            return Ok(responseDelete);
+        }
+
     }
 }
