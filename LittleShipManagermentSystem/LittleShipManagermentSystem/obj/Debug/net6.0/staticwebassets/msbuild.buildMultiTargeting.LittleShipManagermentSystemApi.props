@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LittleShipManagermentSystemApi.props" />
+</Project>

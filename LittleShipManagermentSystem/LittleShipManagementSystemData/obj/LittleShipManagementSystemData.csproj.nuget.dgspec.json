@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj": {}
+    "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj": {}
   },
   "projects": {
-    "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj": {
+    "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj",
+        "projectUniqueName": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj",
         "projectName": "LittleShipManagementSystemDomain",
-        "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj",
-        "packagesPath": "C:\\Users\\gokay.dinc\\.nuget\\packages\\",
-        "outputPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\obj\\",
+        "projectPath": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj",
+        "packagesPath": "C:\\Users\\gokay\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gokay.dinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,21 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj": {
+    "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj",
+        "projectUniqueName": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj",
         "projectName": "LittleShipManagementSystemData",
-        "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj",
-        "packagesPath": "C:\\Users\\gokay.dinc\\.nuget\\packages\\",
-        "outputPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\obj\\",
+        "projectPath": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\LittleShipManagementSystemData.csproj",
+        "packagesPath": "C:\\Users\\gokay\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\LittleShipManagementSystemData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gokay.dinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj": {
-                "projectPath": "C:\\GithubProjects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj"
+              "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj": {
+                "projectPath": "C:\\Projects\\LittleShipManagementSystemBackEnd\\LittleShipManagermentSystem\\ListtleShipManagementSystemDomain\\LittleShipManagementSystemDomain.csproj"
               }
             }
           }
@@ -151,7 +152,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -160,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
