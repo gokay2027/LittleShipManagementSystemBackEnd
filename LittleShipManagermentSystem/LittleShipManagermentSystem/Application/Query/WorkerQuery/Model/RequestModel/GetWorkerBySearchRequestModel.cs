@@ -6,7 +6,7 @@
         public string? SearchSurnameProperty { get; set; }
         public string? SearchNationalityProperty { get; set; }
         public string? SearchExperienceProperty { get; set; }
-        public string? SearchCompanyModel { get; set; }
+        public string? SearchCompanyNameProperty { get; set; }
 
     }
 }

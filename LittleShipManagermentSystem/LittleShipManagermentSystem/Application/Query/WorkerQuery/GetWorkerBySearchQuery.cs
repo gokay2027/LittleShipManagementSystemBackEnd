@@ -44,9 +44,9 @@ namespace LittleShipManagermentSystemApi.Application.Query.WorkerQuery
                 filter=filter.And(a=>a.Experience==request.Model.SearchExperienceProperty);
             }
 
-            if(request.Model.SearchCompanyModel!=null && request.Model.SearchCompanyModel != "")
+            if(request.Model.SearchCompanyNameProperty!=null && request.Model.SearchCompanyNameProperty != "")
             {
-                filter = filter.And(a => a.Company.Name.Contains(request.Model.SearchCompanyModel));
+                filter = filter.And(a => a.Company.Name.Contains(request.Model.SearchCompanyNameProperty));
             }
 
 

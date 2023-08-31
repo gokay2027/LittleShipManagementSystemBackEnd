@@ -121,7 +121,7 @@ namespace LittleShipManagermentSystemApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetWorkersByNameSearch([FromQuery] GetWorkerBySearchRequest request)
+        public async Task<IActionResult> GetWorkersByFilter([FromQuery] GetWorkerBySearchRequest request)
         {
             var workers = await _mediator.Send(request);
             return Ok(workers);
@@ -175,6 +175,14 @@ namespace LittleShipManagermentSystemApi.Controllers
         {
             var responseDelete = await _mediator.Send(inputModel);
             return Ok(responseDelete);
+        }
+
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllWorkers([FromQuery] GetAllWorkersRequest request)
+        {
+            var workers = await _mediator.Send(request);
+            return Ok(workers);
         }
 
     }
