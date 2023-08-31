@@ -39,10 +39,21 @@ namespace LittleShipManagermentSystemApi.Application.Query.WorkerQuery
                 filter = filter.And(a => a.Nationality.Contains(request.Model.SearchNationalityProperty));
             }
 
+            if(request.Model.SearchExperienceProperty!=null && request.Model.SearchExperienceProperty != "")
+            {
+                filter=filter.And(a=>a.Experience==request.Model.SearchExperienceProperty);
+            }
+
+            if(request.Model.SearchCompanyModel!=null && request.Model.SearchCompanyModel != "")
+            {
+                filter = filter.And(a => a.Company.Name.Contains(request.Model.SearchCompanyModel));
+            }
+
+
             #endregion Filter Expressions
 
-            var worker = await _workerRepository.GetByFilter(filter);
-
+            var worker =  _workerRepository.Include(a=>a.Company).Where(filter);
+            
             var searchlist = worker.ToList();
 
             var resultList = new List<GetWorkerBySearchResponseModel>();
