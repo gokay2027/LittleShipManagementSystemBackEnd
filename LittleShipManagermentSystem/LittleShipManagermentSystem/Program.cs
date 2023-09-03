@@ -7,7 +7,6 @@ var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
@@ -15,6 +14,8 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Progr
 //Context
 builder.Services.AddDbContext<LittleShipManagementContext>();
 
+
+//Cross origin
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp",
