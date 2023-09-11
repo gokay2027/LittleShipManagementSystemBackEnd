@@ -30,6 +30,7 @@ namespace LittleShipManagermentSystemApi.Application.Query.WorkerQuery
                 {
                     responseModelList.Add(new GetAllWorkersResponseModel
                     {
+                        id = worker.Id,
                         name = worker.Name,
                         surname = worker.Surname,
                         isOnTheWay = worker.IsOnTheWay,
@@ -37,7 +38,6 @@ namespace LittleShipManagermentSystemApi.Application.Query.WorkerQuery
                         companyName = worker.Company.Name,
                         experience = worker.Experience,
                         nationality = worker.Nationality,
-
                     });
                 }
 

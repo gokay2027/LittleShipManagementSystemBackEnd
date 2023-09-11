@@ -8,6 +8,7 @@ using LittleShipManagermentSystemApi.Application.Command.LoadCommand.Model.Reque
 using LittleShipManagermentSystemApi.Application.Command.ReceiptCommand.Request;
 using LittleShipManagermentSystemApi.Application.Command.ShipCommand.Request;
 using LittleShipManagermentSystemApi.Application.Command.WorkerCommand.Model;
+using LittleShipManagermentSystemApi.Application.Command.WorkerCommand.Request;
 using LittleShipManagermentSystemApi.Application.Query.CompanyQuery.Request;
 using LittleShipManagermentSystemApi.Application.Query.DockQuery.Request;
 using LittleShipManagermentSystemApi.Application.Query.ShipQuery.Request;
@@ -183,6 +184,14 @@ namespace LittleShipManagermentSystemApi.Controllers
         {
             var workers = await _mediator.Send(request);
             return Ok(workers);
+        }
+
+
+        [HttpDelete]
+        public async Task<IActionResult> DeleteWorker(DeleteWorkerRequest request)
+        {
+            var deleteWorkerResponse = await _mediator.Send(request);
+            return Ok(deleteWorkerResponse);
         }
 
     }

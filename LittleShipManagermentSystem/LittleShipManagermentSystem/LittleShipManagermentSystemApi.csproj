@@ -23,8 +23,6 @@
     <Folder Include="Application\Command\CaptainCommand\Response\" />
     <Folder Include="Application\Command\CompanyCommand\Model\ResponseModel\" />
     <Folder Include="Application\Command\CompanyCommand\Response\" />
-    <Folder Include="Application\Command\WorkerCommand\Model\ResponseModel\" />
-    <Folder Include="Application\Command\WorkerCommand\Response\" />
   </ItemGroup>
 
   <ItemGroup>
