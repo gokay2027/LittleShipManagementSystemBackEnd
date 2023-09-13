@@ -194,5 +194,12 @@ namespace LittleShipManagermentSystemApi.Controllers
             return Ok(deleteWorkerResponse);
         }
 
+        [HttpPut]
+        public async Task<IActionResult> UpdateShip(UpdateWorkerRequest inputModel)
+        {
+            var worker = await _mediator.Send(inputModel);
+            return Ok(worker);
+        }
+
     }
 }
