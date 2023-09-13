@@ -2,5 +2,8 @@
 {
     public class GetWorkerByIdRequestModel
     {
+
+        public int Id { get; set; }
+
     }
 }
